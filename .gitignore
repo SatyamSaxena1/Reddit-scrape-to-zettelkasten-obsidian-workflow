@@ -1,0 +1,15 @@
+﻿# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Output and local data
+output/
+saved_posts.csv
+*.zip
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/

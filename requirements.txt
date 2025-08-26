@@ -1,0 +1,7 @@
+praw
+fastapi
+requests
+uvicorn
+scikit-learn
+networkx
+vaderSentiment
