@@ -1,5 +1,3 @@
-
-
 # Obsidian Reddit Zettelkasten (Release)
 
 Turn the chaos of saved Reddit posts into a battle-ready Obsidian Zettelkasten. Harvest ideas, forge concept links, and deploy a clean graph — like a fresh Warbond drop for your note-taking arsenal.
@@ -12,7 +10,11 @@ Turn the chaos of saved Reddit posts into a battle-ready Obsidian Zettelkasten. 
 
 - iOS (video)
   
-  See Release assets or YouTube link in the Release notes.
+  See the v0.1.0 Release assets (ios.mov).
+
+## Release
+- Notes: https://github.com/SatyamSaxena1/Reddit-scrape-to-zettelkasten-obsidian-workflow/releases/tag/v0.1.0
+- iOS demo (direct download): https://github.com/SatyamSaxena1/Reddit-scrape-to-zettelkasten-obsidian-workflow/releases/download/v0.1.0/ios.mov
 
 ## Why this is different
 - Concept-first links: not just post-to-post — we build concept notes and cluster them into “syndicates” for high-signal maps.
