@@ -4,6 +4,16 @@
 
 Turn a CSV of Reddit saved posts into Obsidian-ready Zettelkasten notes with concept graphs.
 
+## Demo
+
+- Desktop (GIF)
+  
+  ![Desktop demo](assets/PC.gif)
+
+- iOS (video)
+  
+  See Release assets or YouTube link in the Release notes.
+
 ## Install (Windows PowerShell)
 
 ```powershell
