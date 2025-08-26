@@ -8,6 +8,7 @@ All notable changes to this project will be documented in this file.
 - Processor: generate Obsidian-ready notes (wikilinks, tags, concept notes), copy media
 - Graphs: export similarity/tags/concepts/syndicates, JSON + GEXF/GraphML, D3 HTML viewer
 - ZIP exporter for notes, media, and graphs
+- Docs: README with quickstart, OAuth explainer, demo GIF
 
 Notes
 - Some posts may fail due to 403/500 (removed/private/rate-limited); see output/errors.log

@@ -2,7 +2,7 @@
 
 # Obsidian Reddit Zettelkasten (Release)
 
-Turn a CSV of Reddit saved posts into Obsidian-ready Zettelkasten notes with concept graphs.
+Turn the chaos of saved Reddit posts into a battle-ready Obsidian Zettelkasten. Harvest ideas, forge concept links, and deploy a clean graph — like a fresh Warbond drop for your note-taking arsenal.
 
 ## Demo
 
@@ -13,6 +13,11 @@ Turn a CSV of Reddit saved posts into Obsidian-ready Zettelkasten notes with con
 - iOS (video)
   
   See Release assets or YouTube link in the Release notes.
+
+## Why this is different
+- Concept-first links: not just post-to-post — we build concept notes and cluster them into “syndicates” for high-signal maps.
+- Obsidian-native: wikilinks, frontmatter tags, clean filenames. Drop-in and it just works.
+- Graphs for humans: multiple modes (similarity/tags/concepts/syndicates), with a sparser default for speed.
 
 ## Install (Windows PowerShell)
 
@@ -28,6 +33,11 @@ Provide a CSV with two columns: `id,permalink`.
 ```powershell
 python .\reddit_scraper.py --non-interactive --saved-file .\saved_posts.csv --output-dir output
 ```
+
+Credentials/OAuth
+- Create an app at https://www.reddit.com/prefs/apps and set REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT
+- Optional: REDDIT_USERNAME, REDDIT_PASSWORD for private/age-gated content or use `--oauth`
+- Full guide: docs/REDDIT_OAUTH.md
 
 Notes
 - Some posts may return 403/500 (removed/private/rate-limited). See `output/errors.log`.
