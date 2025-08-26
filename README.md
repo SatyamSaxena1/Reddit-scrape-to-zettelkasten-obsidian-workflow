@@ -1,4 +1,4 @@
-﻿[![Release](https://img.shields.io/github/v/release/SatyamSaxena1/Reddit-scrape-to-zettelkasten-obsidian-workflow?logo=github)](https://github.com/SatyamSaxena1/Reddit-scrape-to-zettelkasten-obsidian-workflow/releases/latest)
+
 
 # Obsidian Reddit Zettelkasten (Release)
 
